@@ -1,0 +1,37 @@
+## Python Libraries for Data Analytics - Matplotlib
+
+# What is matplotlib?
+
+- Data visualization library in Python used for creating static, animated, and interactive plots.
+
+- python 2D plotting library which produces publication quality figures in a variety of hardcopy formats
+  a set of functionalities similar to those of MATLAB
+
+- line plots, scatter plots, barcharts, histograms, pie charts etc.
+
+- Seaborn package is built on matplotlib and provides high level interface for drawing attractive statistical graphics
+
+## Basic operations
+
+1. Generating various types of plots like line plots, scatter plots, bar plots, histograms.
+
+2. Customization options to enhance the appearance and clarity of plots, including adjusting colors, styles, labels, and  annotations.
+3. Save plots in different formats such as PNG, JPEG, PDF, or SVG for sharing or further analysis.
+
+
+
+###  Data Visualization
+is a graphical way to reapresent your information or data in form of charts
+
+# Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.
+
+Matplotlib  ===> Pip install matplotlib
+
+# ! pip install matplotlib
+
+Matplotlib is a Python library used for creating static, animated, and interactive visualizations in a wide range of formats. It provides a flexible and comprehensive set of tools for generating plots, charts, and graphs, making it a powerful tool for data visualization and analysis in various fields such as data science, engineering, and scientific research
+
+
+###################################################
+### LINE PLOT
+Line plots are excellent for displaying trends or patterns over a continuous range. For example, you might use a line plot to show how a stock price changes over time.
